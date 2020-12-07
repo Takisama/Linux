@@ -1,8 +1,11 @@
 # Linux
 
-**passwd** 
+---
+
+**passwd**
 
 修改密码
+
 ---
 **ls --help | more** 
 
